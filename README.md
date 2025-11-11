@@ -17,13 +17,13 @@ This app allows users to create, read, update, and delete To-Do tasks easily thr
 
 ## 📸 API Testing Screenshots
 
-| Operation | Screenshot |
-|------------|-------------|
-| **Create To-Do** | ![Create Todo](docs/create%20todo.png) |
-| **Get All To-Dos** | ![Get All Todos](docs/getting%20all%20todos.png) |
-| **Update To-Do** | ![Update Todo](docs/update%20the%20existing%20todos.png) |
+| Operation | Screenshot                                                 |
+|------------|------------------------------------------------------------|
+| **Create To-Do** | ![Create Todo](docs/POST%20method.png)                     |
+| **Get All To-Dos** | ![Get All Todos](docs/getting%20all%20todos.png)           |
+| **Update To-Do** | ![Update Todo](docs/update%20the%20existing%20todos.png)   |
 | **Delete To-Do** | ![Delete Todo](docs/deleting%20the%20existing%20todos.png) |
-| **Get To-Do by ID** | ![Get Todo by ID](docs/by%20id.png) |
+| **Get To-Do by ID** | ![Get Todo by ID](docs/by%20id.png)                        |
 
 > 📝 *Note:* If image names contain spaces, use `%20` instead of spaces in the file paths (as shown above).
 
